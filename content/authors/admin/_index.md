@@ -85,5 +85,5 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Jessica López Espejel, a deep learning researcher with a passion for Artificial Intelligence (AI) topics. My research interests encompass various aspects of Natural Language Processing (NLP), such as text and code generation, and automatic evaluation. Currently, I am particularly fascinated by everything related to Large Language Models.
+Hi! I am Jessica López Espejel, a deep learning researcher with a passion for Artificial Intelligence (AI) topics. My research interests encompass various aspects of Natural Language Processing (NLP), such as text and code generation, and automatic evaluation. Currently, I am particularly fascinated by everything related to Large Language Models (LLMs).
 {style="text-align: justify;"}
