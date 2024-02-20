@@ -62,27 +62,63 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Deep Learning Researcher
+          company: Novelis
+          company_url: 'https://novelis.io/'
+          company_logo: novelis
+          location: Paris
+          date_start: '2021-09-06'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Develop and apply techniques for automated code generation in Java and SQL
+              * Fine-tune models, models, optimize parameters, and engineer prompts for superior performance
+              * Implement deployment of models for efficient execution
+              * Generate production-ready optimized code
+              * Publish scientific papers to validate the proposed solutions
+
+        - title: Postdoctoral Researcher
+          company:  Université Sorbonne Paris Nord
+          company_url: 'https://galilee.univ-paris13.fr/'
+          company_logo: sorbonne
+          location: Villetaneuse, île de France
+          date_start: '2021-05-10'
+          date_end: '2021-08-10'
+          description: |2-
+              Responsibilities include:
+
+              * Identifying the existence of diasporas from web search results using reinforcement learning
+              * Write optimized and clear code using best practices and efficient algorithms.
+              
+        
+        - title: Researcher Ph.D. Student
+          company:  Université Sorbonne Paris Nord & CEA-LIST
+          company_url: 'https://list.cea.fr/en/'
+          company_logo: cea
+          location: Palaiseau, île de France
+          date_start: '2018-03-22'
+          date_end: '2021-05-05' 
+          description: |2-
+              Responsibilities include:
+
+              * Propose state-of-the-art methods for generating summaries automatically
+              * Suggest cutting-edge techniques for automatically evaluating summaries
+              * Provide Python classes to Bachelor’s students at ENSTA Paris
+        
+        - title: Software Developer
+          company:  Totalplay Telecommunications
+          company_url: 'https://www.totalplay.com.mx/'
+          company_logo: totalplay
+          location: Mexico City
+          date_start: '2017-07-17'
+          date_end: '2018-02-28'
+          description: |2-
+              Responsibilities include:
+
+              * Java developer specializing in web services (front-end/back-end)
+              * Implementing security algorithms for webpage protection
+    
     design:
       columns: '2'
   
