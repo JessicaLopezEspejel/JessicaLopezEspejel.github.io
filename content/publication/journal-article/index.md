@@ -7,7 +7,7 @@ authors:
 - El Mehdi Chouham
 - Walid Dahhane
 - El Hassane Ettifouri
-date: '2023-05'
+date: '2023-05-04'
 doi: 'https://doi.org/10.1016/j.nlp.2023.100013'
 publication_types: ['paper-journal']
 publication_short: In *Natural Language Processing Journal*
@@ -18,7 +18,7 @@ tags:
 - Language models
 - Natural language processing
 - Natural Language Processing
-- Transformer neural networks
+- Transformer neural network
 featured: false
 
 # links:
