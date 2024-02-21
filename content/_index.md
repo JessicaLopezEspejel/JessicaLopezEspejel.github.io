@@ -176,7 +176,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          # - post
+          - post
         author: ""
         category: ""
         tag: ""
@@ -265,7 +265,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: citation
   
   # - block: tag_cloud
   #   content:
