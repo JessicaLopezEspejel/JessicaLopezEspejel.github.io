@@ -192,6 +192,7 @@ sections:
       # Choose a layout view
       view:  List #compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -242,6 +243,7 @@ sections:
   #     view: card
   
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: |-
