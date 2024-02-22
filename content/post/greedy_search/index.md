@@ -9,7 +9,7 @@ date: '2022-02-20'
 # publication_types: ['paper-conference']
 # publication_short: In *International Journal of Computer and Systems Engineering*
 
-# featured: false
+featured: false
 
 # links:
 # # - name: Custom Link
