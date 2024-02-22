@@ -1,7 +1,7 @@
 ---
 title: "Understanding greedy search and beam search"
-# authors:
-# - Jessica Lòpez Espejel
+authors:
+- Jessica Lòpez Espejel
 # - Mahaman Sanoussi Yahaya Alassan
 # - Walid Dahhane
 # - El Hassane Ettifouri
@@ -9,12 +9,12 @@ date: '2022-02-20'
 # publication_types: ['paper-conference']
 # publication_short: In *International Journal of Computer and Systems Engineering*
 
-featured: false
+# featured: false
 
-# links:
+links:
 # - name: Custom Link
-#   url: http://example.org
-url_pdf: 'https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d'
+  url: https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d
+# url_pdf: 'https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -50,4 +50,4 @@ url_pdf: 'https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
