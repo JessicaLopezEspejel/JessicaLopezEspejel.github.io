@@ -1,11 +1,11 @@
 ---
-title: "Understanding greedy search and beam search"
+title: "ChatGPT and the tools developed to detect AI-generated text"
 authors:
-- Jessica Lòpez Espejel
+- Jessica López Espejel
 # - Mahaman Sanoussi Yahaya Alassan
 # - Walid Dahhane
 # - El Hassane Ettifouri
-date: '2022-02-20'
+date: '2023-01-30'
 # publication_types: ['paper-conference']
 # publication_short: In *International Journal of Computer and Systems Engineering*
 
@@ -20,7 +20,7 @@ date: '2022-02-20'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d'
+url_source: 'https://medium.com/@jessica_lopez/chatgpt-and-the-tools-develop-to-detect-ai-generated-text-8d983def4f92'
 # url_video: '#'
 
 # Featured image
