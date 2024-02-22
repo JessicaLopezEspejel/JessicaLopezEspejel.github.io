@@ -212,8 +212,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Machine Learning
+          tag: Machine Learning
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -262,9 +262,25 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
       filters:
         folders:
           - talks
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: true
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
       columns: '2'
       view: List
