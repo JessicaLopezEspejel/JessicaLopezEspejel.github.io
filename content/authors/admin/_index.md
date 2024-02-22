@@ -53,15 +53,15 @@ social:
     icon_pack: fas
     link: mailto:jessicalopezespejel@gmail.com?subject={title}&body={url} # /#contact
 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/jessicalopezespejel/
-
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=aJ5A8hsAAAAJ&hl=es
     # display:
     #   header: true
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jessicalopezespejel/
   
   - icon: twitter
     icon_pack: fab

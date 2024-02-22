@@ -34,6 +34,14 @@
   enable = true
 
 [[buttons]]
+  id = "google-scholar"
+  url = "https://scholar.google.com/citations?user={user}"
+  title = "google-scholar"
+  icon_pack = "fab"
+  icon = "google-scholar"
+  enable = true
+
+[[buttons]]
   id = "whatsapp"
   url = "whatsapp://send?text={title}%20{url}"
   title = "WhatsApp"
