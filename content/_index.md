@@ -265,7 +265,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: citation
+      view: List
   
   # - block: tag_cloud
   #   content:
