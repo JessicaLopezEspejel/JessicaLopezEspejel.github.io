@@ -73,13 +73,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/jessica_11101
     # label: Twitter
-<<<<<<< HEAD
     display:
       header: true
-=======
-    # display:
-    #   header: true
->>>>>>> 4d4fdca (feat: add google scholar icon)
 
   - icon: github
     icon_pack: fab
