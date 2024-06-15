@@ -63,12 +63,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jessicalopezespejel/
   
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=aJ5A8hsAAAAJ&hl=es
+    display:
+      header: true
+  
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jessica_11101
     # label: Twitter
+<<<<<<< HEAD
     display:
       header: true
+=======
+    # display:
+    #   header: true
+>>>>>>> 4d4fdca (feat: add google scholar icon)
 
   - icon: github
     icon_pack: fab
